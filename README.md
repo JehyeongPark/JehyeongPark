@@ -8,7 +8,6 @@
 
    <img src="https://user-images.githubusercontent.com/110754810/235557061-8810de22-25d6-4535-8358-1658cf57fffd.gif" width="70" height="auto"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JehyeongPark&layout=compact&theme=transparent)](https://github.com/JehyeongPark/github-readme-stats) 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JehyeongPark)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
